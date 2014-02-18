@@ -1,4 +1,4 @@
 travisci-test
 =============
 
-A test repo fo r Travis CI
+A test repo for Travis CI
